@@ -42,3 +42,5 @@ logs/
 *.zip
 *.gz
 
+# scala compile file
+*.tasty
