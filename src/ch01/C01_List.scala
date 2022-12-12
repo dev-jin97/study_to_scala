@@ -61,4 +61,12 @@ object C01_List extends App {
   /*
   되도록이면 var를 안쓰는 방향으로 코딩해야함.
   */
+  // Nil의 존재
+  val use_Nil = 1 :: 2 :: 3 :: Nil // 결과 : List(1, 2, 3)
+
+  /*리스트 끝에 Nil이 필요로 하는 이유는 :: 메소드가 List 클래스의 메버이기 때문*/
+  /*만약 없다면*/
+
+//  val non_use_Nil = 1 :: 2 :: 3 // Int로 지정안했다고 오류뜸.
+
 }
