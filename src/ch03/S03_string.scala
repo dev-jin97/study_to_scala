@@ -1,4 +1,4 @@
-package ch02
+package ch03
 
 object S03_string  extends App {
   // TODO: 스칼라의 문자열 처리
