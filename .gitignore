@@ -1,0 +1,44 @@
+/out/production/practice_scala/main$package$.class
+/out/production/practice_scala/main$package.class
+/out/production/practice_scala/main$package.tasty
+/out/production/practice_scala/main.class
+/out/production/practice_scala/main.tasty
+# 디폴트 무시된 파일
+/shelf/
+/workspace.xml
+# 에디터 기반 HTTP 클라이언트 요청
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# Idea
+.idea/
+*.iml
+# 실행파일 제외
+*.dll
+*.exe
+*.o
+*.so
+*.com
+*.class
+
+# 로그파일 제외
+*.log
+logs/
+
+# 문서 파일 제외
+*.xlsx
+*.xls
+*.pdf
+*.docs
+*.ppt
+*.pptx
+
+# 패키지 파일 제외
+*.dmg
+*.iso
+*.tar
+*.zip
+*.gz
+
