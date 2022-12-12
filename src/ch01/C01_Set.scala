@@ -1,6 +1,5 @@
 package ch01
 
-import scala.collection.immutable.Set
 object C01_Set extends App {
   // Set
   /*
